@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="../images/Logo main - blue.png" alt="Logo" width="320" height="80">
+    <img src={require("../images/Logo main - blue.png")} alt="Logo" width="320" height="80">
   </a>
 
   <h3 align="center">CODEVPRO PVT. LTD</h3>
